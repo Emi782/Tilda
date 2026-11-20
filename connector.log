@@ -1,0 +1,56 @@
+2026-11-03 21:04:37 Webhook received: []
+2026-11-03 21:05:49 Webhook received: []
+2026-11-03 21:07:23 Webhook received: {"test":"test"}
+2026-11-03 21:08:01 Webhook received: {"test":"test"}
+2026-11-03 21:12:37 Webhook received: {"Name":"Эмиль тестовый заказ","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1199021011","products":[{"name":"Bananas","quantity":"1","amount":"30","externalid":"776534181255","price":"30","sku":"SKU0003"}],"amount":"30"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:12:37 Webhook error: Некорректный JSON в ответе (HTTP 405): <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2026-11-03 21:13:47 Webhook received: {"Name":"Тест Cursor","Phone":"+79001234567","Email":"test@example.com","payment_orderid":"TEST-CURSOR","payment_amount":"100","payment_products":"1::Букет:100:1"}
+2026-11-03 21:13:47 Webhook error: Некорректный JSON в ответе (HTTP 405): <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2026-11-03 21:15:32 Webhook received: {"Name":"Эмиль тестовый заказ","Email":"emi96545@gmail.com","Phone":"+7 (909) 712-53-54","payment":{"sys":"none","systranid":"0","orderid":"1353229161","products":[{"name":"Bananas","quantity":"1","amount":"30","externalid":"776534181255","price":"30","sku":"SKU0003"}],"amount":"30"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:15:33 Webhook error: This value should not be blank.; Phone number should contain from 3 to 15 numbers (HTTP 422)
+2026-11-03 21:19:00 Webhook received: []
+2026-11-03 21:19:00 Health ok, API https://daribuzuluk.posiflora.com/api
+2026-11-03 21:20:12 Webhook received: {"Name":"Эмиль","Email":"emi96545@gmail.com","Phone":"+354 222-2222","payment":{"sys":"none","systranid":"0","orderid":"1531123331","products":[{"name":"Pears","quantity":"1","amount":"20","externalid":"205285061796","price":"20","sku":"SKU0002"}],"amount":"20"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:20:13 Webhook error: This value should not be blank.; Phone number should contain from 3 to 15 numbers (HTTP 422)
+2026-11-03 21:22:42 Webhook received: []
+2026-11-03 21:22:43 Health ok, API https://daribuzuluk.posiflora.com/api
+2026-11-03 21:25:10 Webhook received: {"Name":"Эм","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1651615701","products":[{"name":"Pears","quantity":"1","amount":"20","externalid":"205285061796","price":"20","sku":"SKU0002"}],"amount":"20"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:25:10 Webhook error: This value should not be blank. (HTTP 422)
+2026-11-03 21:37:40 Webhook received: {"Name":"Эм","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1676249921","products":[{"name":"Pears","quantity":"1","amount":"20","externalid":"205285061796","price":"20","sku":"SKU0002"}],"amount":"20"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:37:40 Webhook error: This value should not be blank. [/data/id] (HTTP 422)
+2026-11-03 21:47:37 Webhook received: {"Name":"Эмиль с сайта","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1816843851","products":[{"name":"Pears","quantity":"1","amount":"20","externalid":"205285061796","price":"20","sku":"SKU0002"}],"amount":"20"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 21:47:39 Webhook error: This value should not be blank. [/data/id] (HTTP 422)
+2026-11-03 22:41:06 Webhook received: {"Name":"Виктор с сайта","Email":"emi96545@gmail.com","Phone":"+7 (922) 503-14-22","payment":{"sys":"none","systranid":"0","orderid":"1214814681","products":[{"name":"Мягкая игрушка Зайка спорт-шик","quantity":"1","amount":"2000","externalid":"z7pvzN5A3nAbBLHu57IF","price":"2000","sku":"0a85a812-a6c2-4920-8583-dfce159cc1d2"}],"amount":"2000"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 22:41:07 Webhook error: This value should not be blank. [/data/id] (HTTP 422)
+2026-11-03 22:44:18 Webhook received: []
+2026-11-03 22:44:18 Health ok, API https://daribuzuluk.posiflora.com/api
+2026-11-03 22:54:04 Webhook received: {"Name":"Тест после маски","Phone":"+7 (909) 713-27-73","Email":"test@example.com","formid":"form4574684601","formname":"Cart"}
+2026-11-03 22:54:05 Order created in Posiflora: {"tilda_order_id":"","posiflora_order_id":"b8de262a-95d7-451f-9d35-9f704a54d654","customer_name":"Тест после маски","phone":"+7 (909) 713-27-73","amount":0,"items_count":0}
+2026-11-03 22:57:57 Webhook received: {"Name":"Виктор с сайта","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1796885801","products":[{"name":"Мишка в свитере сердечко серый, 20 см","quantity":"1","amount":"850","externalid":"G4gTK1YK3o1PsUemsfiO","price":"850","sku":"0d668c55-1c0b-45ba-b36a-4cdd241a6f2c"}],"amount":"850"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 22:57:58 Webhook error: This value should not be blank. [/data/id] (HTTP 422) @ /home/w/webpack24y/startergpt_ru/public_html/tilda/PosifloraClient.php:458
+2026-11-03 23:02:45 Webhook received: {"Name":"Иван с сайта","Email":"emi96545@gmail.com","Phone":"+7 (333) 333-33-33","payment":{"sys":"none","systranid":"0","orderid":"1915115561","products":[{"name":"Мягкая игрушка Зайка спорт-шик","quantity":"1","amount":"2000","externalid":"z7pvzN5A3nAbBLHu57IF","price":"2000","sku":"0a85a812-a6c2-4920-8583-dfce159cc1d2"}],"amount":"2000"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 23:02:46 Order created in Posiflora: {"tilda_order_id":"1915115561","posiflora_order_id":"3f25531e-ad74-4645-a471-e6e307479c43","customer_name":"Иван с сайта","phone":"+7 (333) 333-33-33","amount":"2000","items_count":1}
+2026-11-03 23:05:38 Webhook received: {"Name":"Виктория с сайта","Email":"emi96545@gmail.com","Phone":"+7 (909) 713-27-73","payment":{"sys":"none","systranid":"0","orderid":"1358126251","products":[{"name":"Кукла ручной работы Белое платье","quantity":"1","amount":"3500","externalid":"LZ80RYnvxK5xKCcMPUTu","price":"3500","sku":"136d4ff1-7fdf-4bb0-8168-52cc90f44a37"}],"amount":"3500"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 23:05:39 Order created in Posiflora: {"tilda_order_id":"1358126251","posiflora_order_id":"7f500bc5-27eb-4a25-bd5a-d314326e5509","customer_name":"Виктория с сайта","phone":"+7 (909) 713-27-73","amount":"3500","items_count":1}
+2026-11-03 23:06:40 Webhook received: {"Name":"фывфыв","Email":"emi96545@gmail.com","Phone":"+7 (333) 333-22-22","payment":{"sys":"none","systranid":"0","orderid":"1996326651","products":[{"name":"Мишка в свитере сердечко серый, 20 см","quantity":"1","amount":"850","externalid":"G4gTK1YK3o1PsUemsfiO","price":"850","sku":"0d668c55-1c0b-45ba-b36a-4cdd241a6f2c"}],"amount":"850"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 23:06:41 Order created in Posiflora: {"tilda_order_id":"1996326651","posiflora_order_id":"53a37e5b-d8e0-4d5f-94cc-5d86d2745d09","customer_name":"фывфыв","phone":"+7 (333) 333-22-22","amount":"850","items_count":1}
+2026-11-03 23:08:41 Webhook received: {"Name":"Виктория с сайта","Email":"emi965444@gmail.com","Phone":"+7 (909) 713-84-47","payment":{"sys":"none","systranid":"0","orderid":"1098106351","products":[{"name":"Мягкая игрушка Зайка спорт-шик","quantity":"1","amount":"2000","externalid":"z7pvzN5A3nAbBLHu57IF","price":"2000","sku":"0a85a812-a6c2-4920-8583-dfce159cc1d2"}],"amount":"2000"},"formid":"form4574684601","formname":"Cart"}
+2026-11-03 23:08:43 Order created in Posiflora: {"tilda_order_id":"1098106351","posiflora_order_id":"8195c2e3-2157-4168-9357-152b59c100a6","customer_name":"Виктория с сайта","phone":"+7 (909) 713-84-47","amount":"2000","items_count":1}
+2026-11-11 04:23:54 Webhook received: {"Name":"Эмиль с сайта","Email":"emi9654225@gmail.com","Phone":"+7 (909) 713-25-25","payment":{"sys":"none","systranid":"0","orderid":"1655084191","products":[{"name":"Игрушка Лама в сиреневом","quantity":"1","amount":"2200","externalid":"d5f4aac1-c695-43fe-8179-9fa4799ca18f","price":"2200","sku":"d5f4aac1-c695-43fe-8179-9fa4799ca18f"}],"amount":"2200"},"formid":"form4574684601","formname":"Cart"}
+2026-11-11 04:23:55 Order created in Posiflora: {"tilda_order_id":"1655084191","posiflora_order_id":"7e843930-edda-4e18-854b-35490bb8e535","customer_name":"Эмиль с сайта","phone":"+7 (909) 713-25-25","amount":"2200","items_count":1}
+2026-11-16 11:13:30 Webhook received: []
+2026-11-16 11:13:30 Health ok, API https://daribuzuluk.posiflora.com/api

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "type": "orders",
+        "id": "5095b417-59b7-46d6-bd39-d1cb31350abe",
+        "attributes": {
+            "status": "new",
+            "date": "2026-11-03",
+            "docNo": "T26110321315",
+            "description": "Заказ из Tilda #TEST-001\n\nТовары:\n  - Букет роз x1 = 1500 руб\n\nФорма: Корзина Tilda\nТелефон: +7 999 123 45 67\nEmail: test@example.com",
+            "delivery": false,
+            "deliveryContact": "Тестовый клиент",
+            "deliveryPhoneCode": "7",
+            "deliveryPhoneNumber": "9991234567"
+        },
+        "relationships": {
+            "source": {
+                "data": {
+                    "type": "order-sources",
+                    "id": "9bed7b59-94dc-4ce4-aac2-883aab1a148c"
+                }
+            },
+            "store": {
+                "data": {
+                    "type": "stores",
+                    "id": "f734d2c9-ecbd-4801-a7d3-99d444ba994a"
+                }
+            }
+        }
+    }
+}
