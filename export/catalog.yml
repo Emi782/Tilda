@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-04 16:15">
+ <shop>
+  <name>ДАРИ</name>
+  <company>Цветочный бутик ДАРИ</company>
+  <url>https://wake-earned-clock.tilda.ws</url>
+  <currencies>
+   <currency id="RUR" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="bouquets">Букеты в наличии</category>
+   <category id="24dc714f-b832-43c1-a03c-389dddf83f6c">Свечи</category>
+   <category id="486bd19d-07bd-4ae6-bce9-482fa5f17e4e">Сопутствующие товары</category>
+   <category id="8ddfd501-4705-4895-8e17-2a64578bcbbc">Декор</category>
+   <category id="5dd7fa84-7d4b-4342-baad-7b46aeb4e874">Игрушки</category>
+  </categories>
+  <offers>
+   <offer id="042c31ad-d428-48b6-a12c-ab1e67eda7f2" available="true">
+    <name>Секатор в подарочной упаковке</name>
+    <price>450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>042c31ad-d428-48b6-a12c-ab1e67eda7f2</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2Fc50a6ed12c029e3fd40d24a841d95af44270a804_shop.jpg</picture>
+   </offer>
+   <offer id="0f675046-9332-462f-bdba-8595097215f6" available="true">
+    <name>Композиция «Цветущий сад»</name>
+    <price>3500.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>0f675046-9332-462f-bdba-8595097215f6</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=z%2F0791f7245ba6d23e784a8e8a7052851a6986ce76_shop.jpg</picture>
+   </offer>
+   <offer id="129163b9-bf36-41bd-95ed-70613561ff73" available="true">
+    <name>Композиция в корзине «Весенние каникулы»</name>
+    <price>5300.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>129163b9-bf36-41bd-95ed-70613561ff73</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F720574cb24650e71056c7ace263de212307fb9c0_shop.jpg</picture>
+   </offer>
+   <offer id="258fdbf6-d203-4d4e-92e9-89226723dfd6" available="true">
+    <name>Букет «Нежное облако »</name>
+    <price>3150.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>258fdbf6-d203-4d4e-92e9-89226723dfd6</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2F01ee5f96a2eb8eec21fde1a70e9d57746aaede21_shop.jpg</picture>
+   </offer>
+   <offer id="3bac560a-b3c7-4421-9470-de479da34a5d" available="true">
+    <name>Композиция-«Сиреневый аромат»</name>
+    <price>4700.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>3bac560a-b3c7-4421-9470-de479da34a5d</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2F6cd95a3b93d7be4985dfa5db2519fce9d771d300_shop.jpg</picture>
+   </offer>
+   <offer id="4e24ecde-a544-4a76-9cf2-d8e1d86c31f8" available="true">
+    <name>Открытка в ассортименте</name>
+    <price>50.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>4e24ecde-a544-4a76-9cf2-d8e1d86c31f8</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F63de93ed62142c337110b34feaa73b5d546a2d95_shop.jpg</picture>
+   </offer>
+   <offer id="4f8e34c6-1372-4926-b23a-fb2e73fa1c66" available="true">
+    <name>Композиция «Ромашка»</name>
+    <price>1450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>4f8e34c6-1372-4926-b23a-fb2e73fa1c66</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2F5416fcee5ce4ef9377c4b9e72140e2510e9c1d88_shop.jpg</picture>
+   </offer>
+   <offer id="57733f83-3b84-41a9-8040-8fb9e9068d44" available="true">
+    <name>Композиция «Оранжевое небо»</name>
+    <price>1800.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>57733f83-3b84-41a9-8040-8fb9e9068d44</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F0eb32ae8b743bda8d0f147c4b4a2c0c1a419ffa4_shop.jpg</picture>
+   </offer>
+   <offer id="5817d6b0-f5fc-4f47-adab-884a81c2174b" available="true">
+    <name>Композиция «Алый парус»</name>
+    <price>2550.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>5817d6b0-f5fc-4f47-adab-884a81c2174b</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Fcbb44f18285848c10f56d753c0daa9f9d0708861_shop.jpg</picture>
+   </offer>
+   <offer id="5a64cf12-85cc-4876-a2c4-18cab569bcf8" available="true">
+    <name>Букет «Приятный сюрприз»</name>
+    <price>1700.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>5a64cf12-85cc-4876-a2c4-18cab569bcf8</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F36e7bfdaa1678011df0deadd4d60729b66a1da4d_shop.jpg</picture>
+   </offer>
+   <offer id="68879fde-a520-4281-82b6-0a3f59c4c8e6" available="true">
+    <name>Букет «Ромашка»</name>
+    <price>2250.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>68879fde-a520-4281-82b6-0a3f59c4c8e6</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=a%2F47fa847ec0458387b7097198b620480f07e4808e_shop.jpg</picture>
+   </offer>
+   <offer id="68c16d39-a70c-4a1a-93b6-9b2dd9f6d058" available="true">
+    <name>Композиция из сухоцветов в вазе «Комплимент»</name>
+    <price>850.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>68c16d39-a70c-4a1a-93b6-9b2dd9f6d058</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2F12c49e6e0be23cff9a5f5508753c454e77ac4872_shop.jpg</picture>
+   </offer>
+   <offer id="6bc4f544-d90f-4ecb-b35d-76dfeec8be6b" available="true">
+    <name>Букет «Крем-Брюле »</name>
+    <price>3750.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>6bc4f544-d90f-4ecb-b35d-76dfeec8be6b</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=a%2Fda679e061b9fd5cd14ca37dc20ca6d3835fd8a6f_shop.jpg</picture>
+   </offer>
+   <offer id="71013ae5-6691-459d-ae7c-e0f3ca4c1479" available="true">
+    <name>Композиция из сухоцветов «Розовая мечта»</name>
+    <price>4450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>71013ae5-6691-459d-ae7c-e0f3ca4c1479</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Fda9ae119917491346be1eeaf9b8571a894ac2715_shop.jpg</picture>
+   </offer>
+   <offer id="8253b9ca-dcb9-4d63-a0fd-8faa18575cfe" available="true">
+    <name>Букет «Белые ночи »</name>
+    <price>2100.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>8253b9ca-dcb9-4d63-a0fd-8faa18575cfe</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2Fc02e506f5d63489596b9a747c5f711dffc1118cd_shop.jpg</picture>
+   </offer>
+   <offer id="8b8c2b69-1216-494d-a074-2992fca12a04" available="true">
+    <name>Композиция «Алый цветок»</name>
+    <price>1800.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>8b8c2b69-1216-494d-a074-2992fca12a04</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2F8ad796cc7c22e29476432fee1409e1b68105281e_shop.jpg</picture>
+   </offer>
+   <offer id="935067e4-daad-41b9-831e-13b6449f73f5" available="true">
+    <name>Сумочка-комплимент</name>
+    <price>1100.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>935067e4-daad-41b9-831e-13b6449f73f5</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2F1785c0fd3c0059a852411777e3047812a626064e_shop.jpg</picture>
+   </offer>
+   <offer id="a127e366-0d1d-4351-b79f-c1fc32e65fde" available="true">
+    <name>Сумочка-комплимент</name>
+    <price>1250.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>a127e366-0d1d-4351-b79f-c1fc32e65fde</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Ff30b45f0e37a37d914f67b3f376a7e40dfb635f4_shop.jpg</picture>
+   </offer>
+   <offer id="b93caffc-1250-48ee-9e5e-f32777ed0b93" available="true">
+    <name>Композиция «Осенний вайб»</name>
+    <price>3550.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>b93caffc-1250-48ee-9e5e-f32777ed0b93</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Fb9315421dce915b147ee903ee30a8f65396a496f_shop.jpg</picture>
+   </offer>
+   <offer id="c7c20dd1-f3e9-4555-a666-eef6a32f2a8a" available="true">
+    <name>Композиция-«Розовый жемчуг» М</name>
+    <price>2850.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>c7c20dd1-f3e9-4555-a666-eef6a32f2a8a</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Fb6d67611438f154eea6d459fef7cdba26602358b_shop.jpg</picture>
+   </offer>
+   <offer id="d74404ca-1c82-4262-a449-980c18758eb4" available="true">
+    <name>Композиция «Красный бархат»</name>
+    <price>3200.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>d74404ca-1c82-4262-a449-980c18758eb4</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2Fa447f1bce8df155311b92c9942f045ea210d5979_shop.jpg</picture>
+   </offer>
+   <offer id="d78ed822-48e0-4a22-ae2a-1385fb92cb5f" available="true">
+    <name>Сумочка «Яркий мир»</name>
+    <price>1000.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>d78ed822-48e0-4a22-ae2a-1385fb92cb5f</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=z%2F035a284e5be970aa44d65051b34ee05ef36e8463_shop.jpg</picture>
+   </offer>
+   <offer id="db8a248a-0b8c-4085-b189-5239195828e5" available="true">
+    <name>Композиция «Фреш»</name>
+    <price>1950.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>bouquets</categoryId>
+    <vendorCode>db8a248a-0b8c-4085-b189-5239195828e5</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2F8daabd35c064bebde6190a51a6d5e226a28927ef_shop.jpg</picture>
+   </offer>
+   <offer id="1f89ef9d-745a-4ed0-be80-93e7e723dd81" available="true">
+    <name>Свеча купол большой</name>
+    <price>3200.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>24dc714f-b832-43c1-a03c-389dddf83f6c</categoryId>
+    <vendorCode>1f89ef9d-745a-4ed0-be80-93e7e723dd81</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2F59d4518d611bb2a3b78e69f82b5ca642e8f1fa90_shop.jpg</picture>
+   </offer>
+   <offer id="265f2e32-1620-423b-a62b-c77fda232ae3" available="true">
+    <name>Свеча стакан 250 мл</name>
+    <price>1550.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>24dc714f-b832-43c1-a03c-389dddf83f6c</categoryId>
+    <vendorCode>265f2e32-1620-423b-a62b-c77fda232ae3</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=a%2F4398fd8379d6c9ba459b5b50fb9ca3928bfabaa8_shop.jpg</picture>
+   </offer>
+   <offer id="30e5133b-5e7f-4c8e-bda1-f34ae4268f39" available="true">
+    <name>Свеча стакан 300 мл</name>
+    <price>1750.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>24dc714f-b832-43c1-a03c-389dddf83f6c</categoryId>
+    <vendorCode>30e5133b-5e7f-4c8e-bda1-f34ae4268f39</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F89c86e65a19150b1f42ce8c2edafbb371e3d2b68_shop.jpg</picture>
+   </offer>
+   <offer id="736d886d-5a70-4ecb-9782-4c307f39f488" available="true">
+    <name>Свеча купол маленький</name>
+    <price>2100.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>24dc714f-b832-43c1-a03c-389dddf83f6c</categoryId>
+    <vendorCode>736d886d-5a70-4ecb-9782-4c307f39f488</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Fd7d262631e95e5a411621bd5dff6de4c75711759_shop.jpg</picture>
+   </offer>
+   <offer id="71d3beca-af82-41e2-b028-e63615e8419e" available="true">
+    <name>Открытка в ассортименте</name>
+    <price>50.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>486bd19d-07bd-4ae6-bce9-482fa5f17e4e</categoryId>
+    <vendorCode>71d3beca-af82-41e2-b028-e63615e8419e</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F5230977efa2813ebc5b6f41bf155703774fbadce_shop.jpg</picture>
+   </offer>
+   <offer id="77c8ff1e-b7ea-4668-a7ed-6ad7b6cb5d60" available="true">
+    <name>Срезка подкормка для срезанных цветов</name>
+    <price>10.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>486bd19d-07bd-4ae6-bce9-482fa5f17e4e</categoryId>
+    <vendorCode>77c8ff1e-b7ea-4668-a7ed-6ad7b6cb5d60</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F4e2348cdc1979d29abdc50b1ae6179b33e2a0eb7_shop.jpg</picture>
+   </offer>
+   <offer id="9eefab22-9291-4b77-b4d8-f15c6c85bd36" available="true">
+    <name>Секатор для подрезки стеблей</name>
+    <price>450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>486bd19d-07bd-4ae6-bce9-482fa5f17e4e</categoryId>
+    <vendorCode>9eefab22-9291-4b77-b4d8-f15c6c85bd36</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F6bcf23d2de378a1332c831071ba96a5e6e3cdfe7_shop.jpg</picture>
+   </offer>
+   <offer id="228cb4f7-3bb9-41b0-a80f-af05a2e27ce5" available="true">
+    <name>Ваза стекло бежевая, 20 см</name>
+    <price>750.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>228cb4f7-3bb9-41b0-a80f-af05a2e27ce5</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2F96ac40b359e28d35f5a9cd326ddaaa0f1df936c3_shop.jpg</picture>
+   </offer>
+   <offer id="31718025-0727-4577-8cca-fea86ef254ab" available="true">
+    <name>Ваза стекло рефлёное широкое дно</name>
+    <price>1450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>31718025-0727-4577-8cca-fea86ef254ab</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=z%2F33041594ab558e10fbe77c4aae522fca445f3d51_shop.jpg</picture>
+   </offer>
+   <offer id="43a05486-b5ce-4ed8-8a1e-c0e575eddc60" available="true">
+    <name>Ваза керамика молочная бежевые ромбы, 20,5*12,5 см</name>
+    <price>1350.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>43a05486-b5ce-4ed8-8a1e-c0e575eddc60</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=c%2F9f0a6fa6e5f02f0cbf666f158d57f15a27e5021e_shop.jpg</picture>
+   </offer>
+   <offer id="4ecf9d98-62e0-4652-9383-968fbca921ae" available="true">
+    <name>Ваза керамическая белая матовая 15*28 см</name>
+    <price>1350.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>4ecf9d98-62e0-4652-9383-968fbca921ae</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F01cf5d4b134b4c8b1df843ac24b05967be64865b_shop.jpg</picture>
+   </offer>
+   <offer id="6385db87-b9ef-46e6-927b-332b3e970824" available="true">
+    <name>Ваза акриловая &quot;Фонарик&quot; 22*13 см, прозрачная</name>
+    <price>420.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>6385db87-b9ef-46e6-927b-332b3e970824</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F449328d46e3f4be9ac69359f342b2e8b86065d79_shop.jpg</picture>
+   </offer>
+   <offer id="6dbd9290-705a-4bcc-9b7e-adf36818f0da" available="true">
+    <name>Ваза керамика желтые листья, 27*11 см</name>
+    <price>1550.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>6dbd9290-705a-4bcc-9b7e-adf36818f0da</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Ffe9056a99dc02573fa7d2645f43ff4a1b76cd91d_shop.jpg</picture>
+   </offer>
+   <offer id="770fd225-d477-40a0-8655-07f51f8446de" available="true">
+    <name>Ваза керамика зеленая, 25,5*11 см</name>
+    <price>1450.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>770fd225-d477-40a0-8655-07f51f8446de</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Fd3c50441d28d2f58abdb68506d67e86069008569_shop.jpg</picture>
+   </offer>
+   <offer id="bb86c975-db01-49cc-9560-ea90c1805250" available="true">
+    <name>Ваза стекло желтая</name>
+    <price>1150.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>bb86c975-db01-49cc-9560-ea90c1805250</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F217e46ad8761953c2b8d8cd5d4c890db6d269e06_shop.jpg</picture>
+   </offer>
+   <offer id="d2f41bea-88ff-427a-be86-bbc282b4a3f3" available="true">
+    <name>Ваза стекло прозрачная, 14*21 см</name>
+    <price>1250.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>d2f41bea-88ff-427a-be86-bbc282b4a3f3</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=a%2F5760cdc2247f03f8e82d331f26357ec918f9aaf3_shop.jpg</picture>
+   </offer>
+   <offer id="d5531ac8-1b68-4516-aa14-916101c63ca9" available="true">
+    <name>Ваза акриловая &quot;Волна&quot; 20*8,5 см прозрачная</name>
+    <price>420.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>d5531ac8-1b68-4516-aa14-916101c63ca9</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F3fd14e87ef8cbe9a24652a2d4399a405c001cb1c_shop.jpg</picture>
+   </offer>
+   <offer id="dd7afc8d-40c1-4769-af36-c5988c8b8991" available="true">
+    <name>Ваза акриловая с орнаментом 20*9,5 см</name>
+    <price>400.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>dd7afc8d-40c1-4769-af36-c5988c8b8991</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Fe97c9eafe0d4b0f61180bf6fb6d6267a20b530a2_shop.jpg</picture>
+   </offer>
+   <offer id="e15716e7-e940-4f53-bcac-cb9d90856277" available="true">
+    <name>Ваза стекло прозрачная кубики Авиньон, 20*11 см</name>
+    <price>2100.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>e15716e7-e940-4f53-bcac-cb9d90856277</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=z%2F7b5c4de8e3707bfd2a4be7cf593d72a37ad176c1_shop.jpg</picture>
+   </offer>
+   <offer id="ecc9c173-ba04-4364-9af6-7506368e1d31" available="true">
+    <name>Ваза керамика белая пупырчатая, 20*12 см</name>
+    <price>1500.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>8ddfd501-4705-4895-8e17-2a64578bcbbc</categoryId>
+    <vendorCode>ecc9c173-ba04-4364-9af6-7506368e1d31</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2F4e8f5a5601c430a19df7cb72bc3f6f09d42bb142_shop.jpg</picture>
+   </offer>
+   <offer id="136d4ff1-7fdf-4bb0-8168-52cc90f44a37" available="true">
+    <name>Кукла ручной работы «Белое платье»</name>
+    <price>3500.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>136d4ff1-7fdf-4bb0-8168-52cc90f44a37</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Fa69262d74a9126184b71566ae1f7da73b4fd1705_shop.jpg</picture>
+   </offer>
+   <offer id="660390b3-13ce-4155-984f-3413056a1def" available="true">
+    <name>Зайка в платье 50 см, розовый</name>
+    <price>1400.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>660390b3-13ce-4155-984f-3413056a1def</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Ffaedd4daf2aa523d33f1f64741aba5d2e647e357_shop.jpg</picture>
+   </offer>
+   <offer id="87b989a0-f74f-4983-ad41-cc47119a9783" available="true">
+    <name>Мягкая игрушка Мишка розовые пайетки</name>
+    <price>2000.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>87b989a0-f74f-4983-ad41-cc47119a9783</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=b%2Ff1ee35523d44f12c7acdf171902c6e5ca3ad8e65_shop.jpg</picture>
+   </offer>
+   <offer id="bdb783f2-295b-4b83-8c08-93048c84919b" available="true">
+    <name>Зайка в платье 50 см, фиолетовый</name>
+    <price>1400.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>bdb783f2-295b-4b83-8c08-93048c84919b</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=x%2Fac8bed6dc9bf93de6454e8e4e3f88aa0dab12502_shop.jpg</picture>
+   </offer>
+   <offer id="c7d3af96-9773-426e-8fc5-c8b5e8e4fcb3" available="true">
+    <name>Мягкая игрушка Мишка-девочка пудра</name>
+    <price>1150.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>c7d3af96-9773-426e-8fc5-c8b5e8e4fcb3</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F130e101e1ff75685386507078b85cefda6c99397_shop.jpg</picture>
+   </offer>
+   <offer id="d5f4aac1-c695-43fe-8179-9fa4799ca18f" available="true">
+    <name>Игрушка «Лама в сиреневом»</name>
+    <price>2200.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>d5f4aac1-c695-43fe-8179-9fa4799ca18f</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=a%2Fde58cfee7dec1a950937311296f3fbe531f6bb36_shop.jpg</picture>
+   </offer>
+   <offer id="e7231f36-7a31-4e0d-95af-34797098eaf5" available="true">
+    <name>Зайка в розовом платье, 38 см</name>
+    <price>1400.00</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>5dd7fa84-7d4b-4342-baad-7b46aeb4e874</categoryId>
+    <vendorCode>e7231f36-7a31-4e0d-95af-34797098eaf5</vendorCode>
+    <count>1</count>
+    <picture>https://startergpt.ru/tilda/shop-photo.php?p=y%2F288e30acb0ea6b9c5a4aeb41601a8640bf34f15b_shop.jpg</picture>
+   </offer>
+  </offers>
+ </shop>
+</yml_catalog>
